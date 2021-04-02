@@ -1,9 +1,0 @@
-S:\Documents\SAE\SAE Work\21T1\CIU211\EyeofTranshumanism\Intermediate\Build\Win64\UE4Editor\Development\EyeofTranshumanism\Definitions.EyeofTranshumanism.h
-S:\EpicGames\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-S:\EpicGames\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-S:\Documents\SAE\SAE Work\21T1\CIU211\EyeofTranshumanism\Source\EyeofTranshumanism/EyeofTranshumanismGameMode.h
-S:\EpicGames\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-S:\EpicGames\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-S:\EpicGames\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-S:\EpicGames\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-S:\Documents\SAE\SAE Work\21T1\CIU211\EyeofTranshumanism\Intermediate\Build\Win64\UE4Editor\Inc\EyeofTranshumanism\EyeofTranshumanismGameMode.generated.h

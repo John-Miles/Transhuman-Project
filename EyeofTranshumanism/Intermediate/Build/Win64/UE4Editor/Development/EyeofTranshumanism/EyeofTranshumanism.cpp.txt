@@ -1,2 +1,0 @@
-S:\Documents\SAE\SAE Work\21T1\CIU211\EyeofTranshumanism\Intermediate\Build\Win64\UE4Editor\Development\EyeofTranshumanism\Definitions.EyeofTranshumanism.h
-S:\Documents\SAE\SAE Work\21T1\CIU211\EyeofTranshumanism\Source\EyeofTranshumanism\EyeofTranshumanism.h
